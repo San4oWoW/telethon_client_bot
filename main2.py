@@ -6,9 +6,9 @@ from telethon.tl import types
 
 from FastTelethon import download_file, upload_file
 
-api_id = 28968521
-api_hash = "f15b15aecaefaac2fc9fe4b0a0469502"
-name = "alexwow"
+api_id = 0
+api_hash = ""
+name = ""
 token = ""
 client = TelegramClient("bot", api_id, api_hash)
 
