@@ -2,9 +2,9 @@ from telethon import TelegramClient, client
 from telethon.tl.types import SendMessageUploadDocumentAction
 from telethon.utils import pack_bot_file_id
 import datetime
-api_id = 28968521
-api_hash = "f15b15aecaefaac2fc9fe4b0a0469502"
-name = "alexwow"
+api_id = 
+api_hash = ""
+name = ""
 
 client = TelegramClient(name, api_id, api_hash)
 
